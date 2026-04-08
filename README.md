@@ -78,6 +78,8 @@ Alessandro Soccol Mejía
 
 Ismael García Ceballos
 
+Juan Pablo Parra El-Masri
+
 ## About
 
 Group assignment — Operating Systems (Sistemas Operativos), EAFIT 2026-1.
