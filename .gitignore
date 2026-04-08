@@ -1,0 +1,51 @@
+# ===== Compilados C =====
+
+*.o
+*.obj
+*.out
+*.exe
+*.a
+*.so
+*.dll
+
+# ===== Ejecutables del proyecto =====
+
+smart_backup
+smart_backup.exe
+
+# ===== Archivos temporales =====
+
+*.log
+*.tmp
+*.temp
+*.cache
+
+# ===== Archivos grandes de prueba =====
+
+*.bin
+*.dat
+*.img
+archivo*.txt
+copia*.txt
+
+# ===== Carpeta de pruebas generadas =====
+
+pruebas_generadas/
+
+# ===== Archivos del sistema =====
+
+.DS_Store
+Thumbs.db
+
+# ===== VS Code =====
+
+.vscode/
+
+# ===== Archivos de build =====
+
+build/
+dist/
+
+# ===== Backup =====
+
+*.bak
