@@ -72,6 +72,12 @@ El programa muestra una tabla comparativa con:
 -   Tiempo de copia
 -   Velocidad de transferencia
 
+## Autores
+
+Alessandro Soccol Mejía
+
+Ismael García Ceballos
+
 ## About
 
 Group assignment — Operating Systems (Sistemas Operativos), EAFIT 2026-1.
